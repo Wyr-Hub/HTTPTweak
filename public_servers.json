@@ -1,0 +1,120 @@
+{
+  "tunnel_types": {
+    "ovpn_tcp": {
+      "name": "OpenVPN TCP"
+    },
+    "ovpn_udp": {
+      "name": "OpenVPN UDP"
+    },
+    "v2ray_vmess": {
+      "name": "VMess"
+    },
+    "ssh": {
+      "name": "SSH"
+    },
+    "dnstt": {
+      "name": "DNSTT"
+    },
+    "v2ray_vless": {
+      "name": "VLESS"
+    },
+    "hysteria": {
+      "name": "Hysteria"
+    },
+    "v2ray_default": {
+      "name": "V2Ray Default"
+    }
+  },
+  "servers": [
+    {
+      "id": "sg-1",
+      "country": "Singapore",
+      "name": "SG Marina Node 01",
+      "tunnel_type": "ovpn_tcp",
+      "tags": [],
+      "status": "online",
+      "load_percent": 34,
+      "tier": "free"
+    },
+    {
+      "id": "sg-gaming-1",
+      "country": "Singapore",
+      "name": "SG Orchard Node 02",
+      "tunnel_type": "ovpn_udp",
+      "tags": ["gaming"],
+      "status": "online",
+      "load_percent": 67,
+      "tier": "pro"
+    },
+    {
+      "id": "sg-torrent-1",
+      "country": "Singapore",
+      "name": "SG Harbor Node 03",
+      "tunnel_type": "v2ray_vmess",
+      "tags": ["torrent"],
+      "status": "maintenance",
+      "load_percent": 92,
+      "tier": "free"
+    },
+    {
+      "id": "jp-1",
+      "country": "Japan",
+      "name": "JP Tokyo Relay 01",
+      "tunnel_type": "ssh",
+      "tags": [],
+      "status": "online",
+      "load_percent": 45,
+      "tier": "free"
+    },
+    {
+      "id": "jp-gaming-1",
+      "country": "Japan",
+      "name": "JP Osaka Relay 02",
+      "tunnel_type": "dnstt",
+      "tags": ["gaming"],
+      "status": "sleeping",
+      "load_percent": 10,
+      "tier": "pro"
+    },
+    {
+      "id": "jp-torrent-1",
+      "country": "Japan",
+      "name": "JP Sapporo Relay 03",
+      "tunnel_type": "v2ray_vless",
+      "tags": ["torrent"],
+      "status": "online",
+      "load_percent": 88,
+      "tier": "free"
+    },
+    {
+      "id": "us-1",
+      "country": "United States",
+      "name": "US Virginia Edge 01",
+      "tunnel_type": "hysteria",
+      "tags": [],
+      "status": "online",
+      "load_percent": 29,
+      "tier": "pro"
+    },
+    {
+      "id": "us-gaming-1",
+      "country": "United States",
+      "name": "US Dallas Edge 02",
+      "tunnel_type": "v2ray_default",
+      "tags": ["gaming"],
+      "status": "offline",
+      "load_percent": 0,
+      "tier": "pro"
+    },
+    {
+      "id": "us-torrent-1",
+      "country": "United States",
+      "name": "US Seattle Edge 03",
+      "tunnel_type": "ovpn_udp",
+      "tags": ["torrent"],
+      "status": "online",
+      "load_percent": 95,
+      "tier": "free"
+    }
+  ]
+}
