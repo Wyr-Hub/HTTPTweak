@@ -1,119 +1,51 @@
 {
   "tunnel_types": {
-    "ovpn_tcp": {
-      "name": "OpenVPN TCP"
-    },
     "ovpn_udp": {
       "name": "OpenVPN UDP"
     },
-    "v2ray_vmess": {
-      "name": "VMess"
-    },
-    "ssh": {
-      "name": "SSH"
-    },
-    "dnstt": {
-      "name": "DNSTT"
-    },
-    "v2ray_vless": {
-      "name": "VLESS"
-    },
-    "hysteria": {
-      "name": "Hysteria"
-    },
-    "v2ray_default": {
-      "name": "V2Ray Default"
+    "v2ray_ss": {
+      "name": "Shadowsocks"
     }
   },
   "servers": [
     {
-      "id": "sg-1",
-      "country": "Singapore",
-      "name": "SG Marina Node 01",
-      "tunnel_type": "ovpn_tcp",
+      "id": "vb-pl-1",
+      "country": "Poland",
+      "name": "Poland VB 01",
+      "tunnel_type": "v2ray_ss",
       "tags": [],
       "status": "online",
       "load_percent": 34,
       "tier": "FREE"
     },
     {
-      "id": "sg-gaming-1",
-      "country": "Singapore",
-      "name": "SG Orchard Node 02",
-      "tunnel_type": "ovpn_udp",
-      "tags": ["gaming"],
-      "status": "online",
-      "load_percent": 67,
-      "tier": "PRO"
-    },
-    {
-      "id": "sg-torrent-1",
-      "country": "Singapore",
-      "name": "SG Harbor Node 03",
-      "tunnel_type": "v2ray_vmess",
-      "tags": ["torrent"],
-      "status": "maintenance",
-      "load_percent": 92,
-      "tier": "FREE"
-    },
-    {
-      "id": "jp-1",
-      "country": "Japan",
-      "name": "JP Tokyo Relay 01",
-      "tunnel_type": "ssh",
+      "id": "vb-pl-2",
+      "country": "Poland",
+      "name": "Poland VB02",
+      "tunnel_type": "v2ray_ss",
       "tags": [],
       "status": "online",
       "load_percent": 45,
       "tier": "FREE"
     },
     {
-      "id": "jp-gaming-1",
-      "country": "Japan",
-      "name": "JP Osaka Relay 02",
-      "tunnel_type": "dnstt",
-      "tags": ["gaming"],
-      "status": "sleeping",
-      "load_percent": 10,
-      "tier": "PRO"
-    },
-    {
-      "id": "jp-torrent-1",
-      "country": "Japan",
-      "name": "JP Sapporo Relay 03",
-      "tunnel_type": "v2ray_vless",
-      "tags": ["torrent"],
-      "status": "online",
-      "load_percent": 88,
-      "tier": "FREE"
-    },
-    {
-      "id": "us-1",
-      "country": "United States",
-      "name": "US Virginia Edge 01",
-      "tunnel_type": "hysteria",
+      "id": "vb-ca-1",
+      "country": "Canada",
+      "name": "Canada VB01",
+      "tunnel_type": "v2ray_ss",
       "tags": [],
       "status": "online",
       "load_percent": 29,
-      "tier": "PRO"
+      "tier": "FREE"
     },
     {
-      "id": "us-gaming-1",
+      "id": "vb-us-1",
       "country": "United States",
-      "name": "US Dallas Edge 02",
-      "tunnel_type": "v2ray_default",
-      "tags": ["gaming"],
-      "status": "offline",
-      "load_percent": 0,
-      "tier": "PRO"
-    },
-    {
-      "id": "us-torrent-1",
-      "country": "United States",
-      "name": "US Seattle Edge 03",
+      "name": "US VB01",
       "tunnel_type": "ovpn_udp",
-      "tags": ["torrent"],
+      "tags": [],
       "status": "online",
-      "load_percent": 95,
+      "load_percent": 47,
       "tier": "FREE"
     }
   ]
