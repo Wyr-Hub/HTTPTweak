@@ -11,12 +11,12 @@
     {
       "id": "vb-pl-1",
       "country": "Poland",
-      "name": "Poland VB 01",
+      "name": "Poland VB01",
       "tunnel_type": "v2ray_ss",
       "tags": [],
       "status": "online",
       "load_percent": 34,
-      "tier": "FREE"
+      "tier": ""
     },
     {
       "id": "vb-pl-2",
@@ -26,7 +26,7 @@
       "tags": [],
       "status": "online",
       "load_percent": 45,
-      "tier": "FREE"
+      "tier": ""
     },
     {
       "id": "vb-ca-1",
@@ -36,7 +36,7 @@
       "tags": [],
       "status": "online",
       "load_percent": 29,
-      "tier": "FREE"
+      "tier": ""
     },
     {
       "id": "vb-us-1",
@@ -46,7 +46,7 @@
       "tags": [],
       "status": "online",
       "load_percent": 47,
-      "tier": "FREE"
+      "tier": ""
     }
   ]
 }
