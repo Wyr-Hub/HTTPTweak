@@ -34,7 +34,7 @@
       "tags": [],
       "status": "online",
       "load_percent": 34,
-      "tier": "free"
+      "tier": "FREE"
     },
     {
       "id": "sg-gaming-1",
@@ -44,7 +44,7 @@
       "tags": ["gaming"],
       "status": "online",
       "load_percent": 67,
-      "tier": "pro"
+      "tier": "PRO"
     },
     {
       "id": "sg-torrent-1",
@@ -54,7 +54,7 @@
       "tags": ["torrent"],
       "status": "maintenance",
       "load_percent": 92,
-      "tier": "free"
+      "tier": "FREE"
     },
     {
       "id": "jp-1",
@@ -64,7 +64,7 @@
       "tags": [],
       "status": "online",
       "load_percent": 45,
-      "tier": "free"
+      "tier": "FREE"
     },
     {
       "id": "jp-gaming-1",
@@ -74,7 +74,7 @@
       "tags": ["gaming"],
       "status": "sleeping",
       "load_percent": 10,
-      "tier": "pro"
+      "tier": "PRO"
     },
     {
       "id": "jp-torrent-1",
@@ -84,7 +84,7 @@
       "tags": ["torrent"],
       "status": "online",
       "load_percent": 88,
-      "tier": "free"
+      "tier": "FREE"
     },
     {
       "id": "us-1",
@@ -94,7 +94,7 @@
       "tags": [],
       "status": "online",
       "load_percent": 29,
-      "tier": "pro"
+      "tier": "PRO"
     },
     {
       "id": "us-gaming-1",
@@ -104,7 +104,7 @@
       "tags": ["gaming"],
       "status": "offline",
       "load_percent": 0,
-      "tier": "pro"
+      "tier": "PRO"
     },
     {
       "id": "us-torrent-1",
@@ -114,7 +114,7 @@
       "tags": ["torrent"],
       "status": "online",
       "load_percent": 95,
-      "tier": "free"
+      "tier": "FREE"
     }
   ]
 }
