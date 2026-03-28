@@ -44,7 +44,7 @@
     {
       "id": "sh-sg",
       "country": "Singapore",
-      "name": "🇸🇬 SG [ws:8081,SSL:443]",
+      "name": "🇸🇬 SG [ws:8081,ssl:443]",
       "tunnel_type": "ovpn_tcp",
       "tags": [],
       "status": "online",
@@ -54,7 +54,7 @@
     {
       "id": "sh-sg",
       "country": "Singapore",
-      "name": "🇸🇬 SG [ws:8081,SSL:443]",
+      "name": "🇸🇬 SG [ws:8081,ssl:443]",
       "tunnel_type": "ovpn_udp",
       "tags": [],
       "status": "online",
@@ -64,7 +64,7 @@
     {
       "id": "sh-us",
       "country": "United States",
-      "name": "🇺🇸 US [ws:8081,SSL:443]",
+      "name": "🇺🇸 US [ws:8081,ssl:443]",
       "tunnel_type": "ovpn_tcp",
       "tags": [],
       "status": "online",
@@ -74,7 +74,7 @@
     {
       "id": "sh-us",
       "country": "United States",
-      "name": "🇺🇸 US [ws:8081,SSL:443]",
+      "name": "🇺🇸 US [ws:8081,ssl:443]",
       "tunnel_type": "ovpn_udp",
       "tags": [],
       "status": "online",
@@ -84,7 +84,7 @@
     {
       "id": "sh-au",
       "country": "Australia",
-      "name": "🇦🇺 AU [ws:8081,SSL:443]",
+      "name": "🇦🇺 AU [ws:8081,ssl:443]",
       "tunnel_type": "ovpn_tcp",
       "tags": [],
       "status": "online",
@@ -94,7 +94,7 @@
     {
       "id": "sh-au",
       "country": "Australia",
-      "name": "🇦🇺 AU [ws:8081,SSL:443]",
+      "name": "🇦🇺 AU [ws:8081,ssl:443]",
       "tunnel_type": "ovpn_udp",
       "tags": [],
       "status": "online",
@@ -104,7 +104,7 @@
     {
       "id": "sh-de",
       "country": "Germany",
-      "name": "🇩🇪 DE [ws:8081,SSL:443]",
+      "name": "🇩🇪 DE [ws:8081,ssl:443]",
       "tunnel_type": "ovpn_tcp",
       "tags": [],
       "status": "online",
@@ -114,7 +114,7 @@
     {
       "id": "sh-de",
       "country": "Germany",
-      "name": "🇩🇪 DE [ws:8081,SSL:443]",
+      "name": "🇩🇪 DE [ws:8081,ssl:443]",
       "tunnel_type": "ovpn_udp",
       "tags": [],
       "status": "online",
