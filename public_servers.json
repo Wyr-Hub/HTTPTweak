@@ -1,6 +1,6 @@
 {
   "tunnel_types": {
-    "ovpn_tcp": {to 
+    "ovpn_tcp": {
       "name": "OpenVPN TCP"
     },
     "ovpn_udp": {
@@ -96,6 +96,33 @@
       "country": "Australia",
       "name": "🇦🇺 AU [udp]",
       "tunnel_type": "ovpn_udp",
+      "tags": [],
+      "status": "online",
+      "load_percent": 25,
+      "tier": ""
+    },
+    {
+      "id": "sh-de",
+      "country": "Germany",
+      "name": "🇩🇪 DE [ws:8081,ssl:443]",
+      "tunnel_type": "ovpn_tcp",
+      "tags": [],
+      "status": "online",
+      "load_percent": 30,
+      "tier": ""
+    },
+    {
+      "id": "sh-de",
+      "country": "Germany",
+      "name": "🇩🇪 DE [udp]",
+      "tunnel_type": "ovpn_udp",
+      "tags": [],
+      "status": "online",
+      "load_percent": 30,
+      "tier": ""
+    }
+  ]
+}      "tunnel_type": "ovpn_udp",
       "tags": [],
       "status": "online",
       "load_percent": 25,
