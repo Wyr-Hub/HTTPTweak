@@ -1,6 +1,6 @@
 {
   "tunnel_types": {
-    "ovpn_tcp": {
+    "ovpn_tcp": {to 
       "name": "OpenVPN TCP"
     },
     "ovpn_udp": {
@@ -54,7 +54,7 @@
     {
       "id": "sh-sg",
       "country": "Singapore",
-      "name": "🇸🇬 SG [ws:8081,ssl:443]",
+      "name": "🇸🇬 SG [udp]",
       "tunnel_type": "ovpn_udp",
       "tags": [],
       "status": "online",
@@ -74,7 +74,7 @@
     {
       "id": "sh-us",
       "country": "United States",
-      "name": "🇺🇸 US [ws:8081,ssl:443]",
+      "name": "🇺🇸 US [udp]",
       "tunnel_type": "ovpn_udp",
       "tags": [],
       "status": "online",
@@ -94,7 +94,7 @@
     {
       "id": "sh-au",
       "country": "Australia",
-      "name": "🇦🇺 AU [ws:8081,ssl:443]",
+      "name": "🇦🇺 AU [udp]",
       "tunnel_type": "ovpn_udp",
       "tags": [],
       "status": "online",
@@ -114,7 +114,7 @@
     {
       "id": "sh-de",
       "country": "Germany",
-      "name": "🇩🇪 DE [ws:8081,ssl:443]",
+      "name": "🇩🇪 DE [udp]",
       "tunnel_type": "ovpn_udp",
       "tags": [],
       "status": "online",
