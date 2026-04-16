@@ -25,6 +25,16 @@
       "tier": ""
     },
     {
+      "id": "atl-global-cf",
+      "country": "Global",
+      "name": "🌐 Global CF [ws:80,ssl:443]",
+      "tunnel_type": "ssh",
+      "tags": [],
+      "status": "online",
+      "load_percent": 20,
+      "tier": ""
+    },
+    {
       "id": "vb-pl-1",
       "country": "Poland",
       "name": "Poland VB01",
