@@ -3,12 +3,6 @@
     "ssh": {
       "name": "SSH"
     },
-    "ovpn_tcp": {
-      "name": "OpenVPN TCP"
-    },
-    "ovpn_udp": {
-      "name": "OpenVPN UDP"
-    },
     "v2ray_ss": {
       "name": "Shadowsocks"
     }
@@ -62,86 +56,6 @@
       "tags": [],
       "status": "online",
       "load_percent": 29,
-      "tier": ""
-    },
-    {
-      "id": "sh-sg",
-      "country": "Singapore",
-      "name": "🇸🇬 SG [ws:8081,ssl:443]",
-      "tunnel_type": "ovpn_tcp",
-      "tags": [],
-      "status": "online",
-      "load_percent": 15,
-      "tier": ""
-    },
-    {
-      "id": "sh-sg",
-      "country": "Singapore",
-      "name": "🇸🇬 SG [udp]",
-      "tunnel_type": "ovpn_udp",
-      "tags": [],
-      "status": "online",
-      "load_percent": 15,
-      "tier": ""
-    },
-    {
-      "id": "sh-us",
-      "country": "United States",
-      "name": "🇺🇸 US [ws:8081,ssl:443]",
-      "tunnel_type": "ovpn_tcp",
-      "tags": [],
-      "status": "online",
-      "load_percent": 20,
-      "tier": ""
-    },
-    {
-      "id": "sh-us",
-      "country": "United States",
-      "name": "🇺🇸 US [udp]",
-      "tunnel_type": "ovpn_udp",
-      "tags": [],
-      "status": "online",
-      "load_percent": 20,
-      "tier": ""
-    },
-    {
-      "id": "sh-au",
-      "country": "Australia",
-      "name": "🇦🇺 AU [ws:8081,ssl:443]",
-      "tunnel_type": "ovpn_tcp",
-      "tags": [],
-      "status": "online",
-      "load_percent": 25,
-      "tier": ""
-    },
-    {
-      "id": "sh-au",
-      "country": "Australia",
-      "name": "🇦🇺 AU [udp]",
-      "tunnel_type": "ovpn_udp",
-      "tags": [],
-      "status": "online",
-      "load_percent": 25,
-      "tier": ""
-    },
-    {
-      "id": "sh-de",
-      "country": "Germany",
-      "name": "🇩🇪 DE [ws:8081,ssl:443]",
-      "tunnel_type": "ovpn_tcp",
-      "tags": [],
-      "status": "online",
-      "load_percent": 30,
-      "tier": ""
-    },
-    {
-      "id": "sh-de",
-      "country": "Germany",
-      "name": "🇩🇪 DE [udp]",
-      "tunnel_type": "ovpn_udp",
-      "tags": [],
-      "status": "online",
-      "load_percent": 30,
       "tier": ""
     }
   ]
