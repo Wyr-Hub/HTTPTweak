@@ -1,0 +1,26 @@
+{
+  "latestVersionCode": 320,
+  "releases": [
+    {
+      "version": "1.5.1",
+      "versionCode": 320,
+      "mandatory": false,
+      "publishedAt": "2026-06-30T10:00:00Z",
+      "changes": [
+        "Improved V2Ray server form",
+        "Added extra security option in config export",
+        "Fixed bugs"
+      ]
+    },
+    {
+      "version": "1.5.0",
+      "versionCode": 312,
+      "mandatory": false,
+      "publishedAt": "2026-06-15T09:00:00Z",
+      "changes": [
+        "Improved overall app performance",
+        "Fixed bugs and enhanced stability"
+      ]
+    }
+  ]
+}
