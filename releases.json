@@ -1,6 +1,19 @@
 {
-  "latestVersionCode": 320,
+  "latestVersionCode": 325,
   "releases": [
+    {
+      "version": "1.5.3",
+      "versionCode": 325,
+      "mandatory": true,
+      "publishedAt": "2026-06-30T10:00:00Z",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.5.3/app-release.apk",
+      "changes": [
+        "Speed Test tool added",
+        "DNSTT and Hysteria forms updated",
+        "Bulk selection added for configs, tweaks, and servers",
+        "Bug fixes and stability improvements"
+      ]
+    },
     {
       "version": "1.5.1",
       "versionCode": 320,
