@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 326,
+  "latestVersionCode": 341,
   "releases": [
     {
       "version": "1.5.3",
-      "versionCode": 326,
+      "versionCode": 341,
       "mandatory": true,
       "publishedAt": "2026-06-30T10:00:00Z",
       "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.5.3/app-release.apk",
