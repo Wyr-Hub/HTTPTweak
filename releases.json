@@ -6,7 +6,7 @@
       "versionCode": 347,
       "mandatory": true,
       "publishedAt": "2026-07-11 T10:00:00Z",
-      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.5.3/app-release.apk",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.6.0/HTTP.Tweak.v1.6.0.apk",
       "changes": [
         "Added QR code for importing and exporting config",
         "Added Favorites",
