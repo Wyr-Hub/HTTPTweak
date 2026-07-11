@@ -1,6 +1,22 @@
 {
-  "latestVersionCode": 341,
+  "latestVersionCode": 347,
   "releases": [
+    {
+      "version": "1.6.0",
+      "versionCode": 347,
+      "mandatory": true,
+      "publishedAt": "2026-07-11 T10:00:00Z",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.5.3/app-release.apk",
+      "changes": [
+        "Added QR code for importing and exporting config",
+        "Added Favorites",
+        "Added Data Usage",
+        "Improved the user interface",
+        "Improved Hotspot Tethering",
+        "Minor optimizations and improvements",
+        "Bug fixes"
+      ]
+    },
     {
       "version": "1.5.3",
       "versionCode": 341,
