@@ -1,6 +1,18 @@
 {
-  "latestVersionCode": 347,
+  "latestVersionCode": 350,
   "releases": [
+    {
+      "version": "1.6.1",
+      "versionCode": 350,
+      "mandatory": true,
+      "publishedAt": "2026-07-13 T10:00:00Z",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.6.1/HTTP.Tweak.v1.6.1.apk",
+      "changes": [
+        "Added a DNS changer",
+        "Added new network tools",
+        "Added actions to notifications"
+      ]
+    },
     {
       "version": "1.6.0",
       "versionCode": 347,
