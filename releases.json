@@ -2,6 +2,16 @@
   "latestVersionCode": 355,
   "releases": [
     {
+      "version": "1.6.2",
+      "versionCode": 356,
+      "mandatory": true,
+      "publishedAt": "2026-07-15 T10:00:00Z",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.6.2/HTTP.Tweak.v1.6.2.apk",
+      "changes": [
+        "Increased fetch timeouts for slow internet connections"
+      ]
+    },
+    {
       "version": "1.6.1",
       "versionCode": 355,
       "mandatory": true,
