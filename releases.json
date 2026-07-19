@@ -2,6 +2,17 @@
   "latestVersionCode": 357,
   "releases": [
     {
+      "version": "1.6.3",
+      "versionCode": 360,
+      "mandatory": true,
+      "publishedAt": "2026-07-20 T10:00:00Z",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.6.3/HTTP.Tweak.v1.6.3.apk",
+      "changes": [
+        "Removed the unsupported Xray allowInsecure option",
+        "Fixed bugs"
+      ]
+    },
+    {
       "version": "1.6.2",
       "versionCode": 357,
       "mandatory": true,
