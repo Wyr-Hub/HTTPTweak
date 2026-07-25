@@ -3,14 +3,13 @@
   "releases": [
     {
       "version": "1.6.4",
-      "versionCode": 378,
+      "versionCode": 379,
       "mandatory": true,
       "publishedAt": "2026-07-25 T10:00:00Z",
       "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.6.4/HTTP.Tweak.v1.6.4.apk",
       "changes": [
         "Updated HEV SOCKS5 Tunnel.",
         "Added support for deep links.",
-        "Improved Custom DNS.",
         "Fixed minor bugs and improved stability."
       ]
     },
