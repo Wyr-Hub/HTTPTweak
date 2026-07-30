@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 390,
+  "latestVersionCode": 393,
   "releases": [
     {
       "version": "1.6.5",
-      "versionCode": 390,
+      "versionCode": 393,
       "mandatory": true,
-      "publishedAt": "2026-07-28 T10:00:00Z",
+      "publishedAt": "2026-07-30 T10:00:00Z",
       "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.6.5/HTTP.Tweak.v1.6.5.apk",
       "changes": [
         "Updated SSH and Proxy libraries.",
