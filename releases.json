@@ -1,6 +1,20 @@
 {
-  "latestVersionCode": 405,
+  "latestVersionCode": 444,
   "releases": [
+    {
+      "version": "1.6.7",
+      "versionCode": 444,
+      "mandatory": true,
+      "publishedAt": "2026-08-06 T10:00:00Z",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.6.7/HTTP.Tweak.v1.6.7.apk",
+      "changes": [
+        "Added PRO subscription",
+        "Added Servers page",
+        "Added reconnect timeout",
+        "Updated Set DNS & Ping URL",
+        "Fixed bugs and improved stability"
+      ]
+    },
     {
       "version": "1.6.6",
       "versionCode": 405,
