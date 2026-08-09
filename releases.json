@@ -1,6 +1,21 @@
 {
-  "latestVersionCode": 444,
+  "latestVersionCode": 453,
   "releases": [
+    {
+      "version": "1.6.8",
+      "versionCode": 453,
+      "mandatory": true,
+      "publishedAt": "2026-08-09 T10:00:00Z",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.6.8/HTTP.Tweak.v1.6.8.apk",
+      "changes": [
+        "Added a new language.",
+        "Added new settings.",
+        "Added advanced options for Auto Ping.",
+        "Updated core libraries.",
+        "Added automatic backup.",
+        "Bug fixes and improves stability."
+      ]
+    },
     {
       "version": "1.6.7",
       "versionCode": 444,
