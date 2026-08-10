@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 456,
+  "latestVersionCode": 458,
   "releases": [
       {
       "version": "1.6.9",
-      "versionCode": 456,
+      "versionCode": 458,
       "mandatory": true,
       "publishedAt": "2026-08-10 T10:00:00Z",
       "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.6.9/HTTP.Tweak.v1.6.9.apk",
