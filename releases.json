@@ -1,14 +1,15 @@
 {
-  "latestVersionCode": 468,
+  "latestVersionCode": 471,
   "releases": [
       {
-      "version": "1.6.9",
-      "versionCode": 468,
+      "version": "1.7.0",
+      "versionCode": 471,
       "mandatory": true,
       "publishedAt": "2026-08-11 T10:00:00Z",
-      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.6.9/HTTP.Tweak.v1.6.9.apk",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.7.0/HTTP.Tweak.v1.7.0.apk",
       "changes": [
-        "Improved translations."
+        "Improved translations.",
+        "Fixed DNS Issue."
       ]
     },
     {
