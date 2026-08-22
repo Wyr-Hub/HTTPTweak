@@ -1,6 +1,18 @@
 {
-  "latestVersionCode": 506,
+  "latestVersionCode": 508,
   "releases": [
+      {
+      "version": "1.7.4",
+      "versionCode": 508,
+      "mandatory": true,
+      "publishedAt": "2026-08-22 T10:00:00Z",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.7.4/HTTP.Tweak.v1.7.4.apk",
+      "changes": [
+        "Updated IP Finder",
+        "Improved translations",
+        "Fixed bugs and Improved stability"
+      ]
+    },
       {
       "version": "1.7.3",
       "versionCode": 506,
