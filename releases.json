@@ -1,7 +1,18 @@
 {
-  "latestVersionCode": 510,
+  "latestVersionCode": 512,
   "releases": [
       {
+      "version": "1.7.6",
+      "versionCode": 512,
+      "mandatory": true,
+      "publishedAt": "2026-08-26 T10:00:00Z",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.7.6/HTTP.Tweak.v1.7.6.apk",
+      "changes": [
+        "Added reconnect by interval",
+        "Updated data usage"
+      ]
+    },
+    {
       "version": "1.7.5",
       "versionCode": 510,
       "mandatory": true,
