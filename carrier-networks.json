@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-07T15:04:52.801834+00:00",
+  "updated_at": "2026-10-07 15:04:52",
   "source": "https://raw.githubusercontent.com/P1sec/MCC_MNC/cfd475c6dc0380b4fc7a00423a46875e7fae4a8d/src/mcc_mnc_lut/p1_mnc.json",
   "source_sha256": "c169403a9151b71d986fcb44f65ec37f50413a32294364f0675d390276c8409c",
   "license": "CC-BY-SA-4.0",
