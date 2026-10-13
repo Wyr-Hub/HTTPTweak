@@ -6,7 +6,7 @@
       "versionCode": 560,
       "mandatory": true,
       "publishedAt": "2026-10-13 T10:00:00Z",
-      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.8.0/HTTP.Tweak.v1.8.0.apk",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.8.1/HTTP.Tweak.v1.8.1.apk",
       "changes": [
         "Added V2Ray + Payload support",
         "Added Slipstream, BHTTP and HCR tunnels",
