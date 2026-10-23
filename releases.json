@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 602,
+  "latestVersionCode": 603,
   "releases": [
     {
-      "version": "1.8.7",
-      "versionCode": 602,
+      "version": "1.8.8",
+      "versionCode": 603,
       "mandatory": true,
       "publishedAt": "2026-10-22 T10:00:00Z",
-      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.8.7/HTTP.Tweak.v1.8.7.apk",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.8.8/HTTP.Tweak.v1.8.8.apk",
       "changes": [
         "Optimized battery usage",
         "Added new V2Ray options",
