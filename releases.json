@@ -1,18 +1,13 @@
 {
-  "latestVersionCode": 603,
+  "latestVersionCode": 604,
   "releases": [
     {
-      "version": "1.8.8",
-      "versionCode": 603,
+      "version": "1.8.9",
+      "versionCode": 604,
       "mandatory": true,
-      "publishedAt": "2026-10-22 T10:00:00Z",
-      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.8.8/HTTP.Tweak.v1.8.8.apk",
-      "changes": [
-        "Optimized battery usage",
-        "Added new V2Ray options",
-        "Fixed V2Ray reconnect issue",
-        "Added [local] DNS placeholder for SlowDNS and Slipstream"
-      ]
+      "publishedAt": "2026-10-27 T10:00:00Z",
+      "downloadUrl": "https://github.com/Wyr-Hub/HTTPTweak/releases/download/v1.8.9/HTTP.Tweak.v1.8.9.apk",
+      "changes": []
     }
   ]
 }
